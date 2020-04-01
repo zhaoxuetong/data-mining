@@ -1,4 +1,6 @@
-# 数据挖掘，推荐系统算法总结 探索了FM和FFM的含义，进行了FM.py部分的修改：
+# 数据挖掘，推荐系统算法总结 
+
+## 探索了FM和FFM的含义，进行了FM.py部分的修改：
 
 1、在df.interaction_terms 里面，应该是df.reduce_mean()而不是用df.reduce_sum()
 
